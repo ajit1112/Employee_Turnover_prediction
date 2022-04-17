@@ -2,7 +2,7 @@ This mini-project has been done by group of three students of CSE AIML- B sectio
 
 Gautham Gopan-RA1911026020091
 
-Darshil paplkar-RA1911026020096
+Darshil papalkar-RA1911026020096
 
 Veeravatnam Venkata Ajit-RA1911026020104
 
